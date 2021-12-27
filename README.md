@@ -2,6 +2,14 @@
 
 Thanks for visiting my Github. I'm a software engineer just getting started in the industry, and am excited to continue learning in this ever-growing field! Feel free to reach out if you have any questions, or wish to collab!
 
+Find me on
+<div>
+  <a href="https://linkedin.com/in/michaelklight">
+           <img height="50em" src="https://www.kinesisinc.com/wp-content/uploads/2020/04/linkedin-101-hero@2x.png">
+  </a>
+</div>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlight06&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
