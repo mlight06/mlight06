@@ -5,7 +5,7 @@ Thanks for visiting my Github. I'm a software engineer just getting started in t
 Find me on
 <div>
   <a href="https://linkedin.com/in/michaelklight">
-           <img height="50em" src="https://www.kinesisinc.com/wp-content/uploads/2020/04/linkedin-101-hero@2x.png">
+           <img height="50em" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png">
   </a>
 </div>
 
