@@ -5,6 +5,7 @@ Thanks for visiting my Github. I'm a software engineer just getting started in t
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlight06&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ## Technologies 
 <br>
 <div>
@@ -23,6 +24,7 @@ Thanks for visiting my Github. I'm a software engineer just getting started in t
   <span>
     PostgreSQL &nbsp <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
   </span>
+  &nbsp
     Docker &nbsp  <img height="50em" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.18.0/1637001306874/Microsoft.VisualStudio.Services.Icons.Default" />
   </span>
 </div>
