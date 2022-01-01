@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Thanks for visiting my Github. I'm a software engineer just getting started in the industry, and am excited to continue learning in this ever-growing field! Feel free to reach out if you have any questions, or wish to collab!
+Hello! I'm a full stack software developer who enjoys creating aesthetically pleasing, functionally sound web applications. I take pleasure in designing unique apps that create a benefit for others. The world of software allows me to express my creativity. It's truly art; just a non-traditional medium.
 
 Find me on
 <div>
