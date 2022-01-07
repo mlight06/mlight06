@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! I'm a full stack software developer who enjoys creating aesthetically pleasing, functionally sound web applications. I take pleasure in designing unique apps that create a benefit for others. The world of software allows me to express my creativity. It's truly art; just a non-traditional medium.
+Hello! I'm Michael, from beautiful Colorado. I'm a full stack software developer who enjoys creating aesthetically pleasing, functionally sound web applications. I take pleasure in designing unique apps that create a benefit for others. The world of software allows me to express my creativity. It's truly art; just a non-traditional medium.
 
 Find me on
 <div>
