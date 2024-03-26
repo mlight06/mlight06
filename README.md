@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hello! I'm Michael, from beautiful Colorado. I'm a full stack software developer who enjoys creating aesthetically pleasing, functionally sound web applications. FYI, my GH looks dead because I have a private account for work.
+Hello! I'm Michael, from beautiful Colorado. I'm a full stack software developer who enjoys creating aesthetically pleasing, functionally sound web applications. FYI, my GH looks dead because I had a private account for my last company, which can be found at:
+github.com/michaelklight
 
 Find me on
 <div>
